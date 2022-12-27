@@ -13,6 +13,8 @@ export const GlobalStyle = createGlobalStyle`
 
     --text-body: #969cb3;
     --text-title: #363f5f;
+
+    --white: #fff;
   }
 
   *{
